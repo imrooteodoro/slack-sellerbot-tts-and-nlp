@@ -1,0 +1,1 @@
+{"name":"TipoPagamento","identifier":"XF3EKNVNFG","description":null,"slotTypeValues":[{"synonyms":null,"sampleValue":{"value":"Cartão de crédito"}},{"synonyms":null,"sampleValue":{"value":"Cartão de débito"}},{"synonyms":null,"sampleValue":{"value":"Pix"}}],"parentSlotTypeSignature":null,"valueSelectionSetting":{"resolutionStrategy":"ORIGINAL_VALUE","regexFilter":null}}
